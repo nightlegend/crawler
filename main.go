@@ -1,9 +1,9 @@
 package main
 
 import (
-	"crawler/lib"
 	"fmt"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/crawler/lib"
 	"log"
 )
 
